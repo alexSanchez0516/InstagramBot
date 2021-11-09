@@ -1,0 +1,41 @@
+{
+    "account1":{
+        "username":"tucodigofavorit0",
+        "password":"1690001299Gr.",
+        "like_hashtags":{
+            "hashtags":["python", "developers", "linux"],
+            "numberOfLikesPerHashtag":50
+        },
+        "follow_last_user_likers":{
+            "username":"kyliejenner",
+            "numberOfFollows":50
+        },
+        "follow_users_by_hashtags":{
+            "hashtags":["linux", "python", "developers"]
+        },
+        "follow_user_followers":{
+            "user":"andreiitamayo",
+            "numberOfFollows":50
+        },
+        "comment_hashtags":{
+            "hashtags":["python", "Linux", "django"],
+            "commentText":["Nice !", "Very nice!", "Looks great!"],
+            "numberOfCommentsPerHashtag":20
+        },
+        "unfollow_non_followers":{
+            "numberOfUnfollows":100
+        },
+        "message_users_likers":{
+            "user":"kyliejenner",
+            "text":"Hello!",
+            "numberOfMessages":50
+        },
+        "like_medias_by_location":{
+            "location":"Germany",
+            "numberOfLikes":100
+        },
+        "post_scheduler":{
+            "postsPerDay":20
+        }
+    }
+}
